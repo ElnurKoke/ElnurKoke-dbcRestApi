@@ -1,4 +1,4 @@
-# Rest API with golang (Doodocs Backend Challenge)
+# Rest API with golang 
 
 API Server technology stack is  
 
